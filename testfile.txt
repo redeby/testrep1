@@ -1,3 +1,4 @@
 here is just some text in a testfile
 a another line
 added from myfix1 branch
+another line from myfix1 branch
