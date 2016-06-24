@@ -4,3 +4,4 @@ added from myfix1 branch
 another line from myfix1 branch
 added from myfix2 branch
 small change
+this line was the 1.2.1 hotfix fix
